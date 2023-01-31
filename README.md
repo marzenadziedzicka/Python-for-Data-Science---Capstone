@@ -16,4 +16,3 @@ SKILLS:
 * Folium -  folium.Map, folium.Circle, folium.Map.Marker, add_child, folium.Icon,folium.PolyLine, add coordinates, calculate distance
 * Plotly Dash - create a web app, html and core components, Input/Output, plotly express (pie, scatter) Dropdown, Graph, RangeSlider, Callback , def, if/else
 * Machine Learning Prediction - LogisticRegression, GridSearchCV, svm, SCV, score, DecisionTreeClassifier, KNeighborsClassifier, predict, best_score_, best_param_, confusion_matrix, sns.heatmap, to_numpy, StandardScaler, fit(), transform(), train_test_split
-*
